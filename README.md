@@ -21,7 +21,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SwaggyP23&theme=monokai&hide_border=true)](https://git.io/streak-stats)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=SwaggyP23&hide_border=true&count_private=true&include_all_commits=true&theme=monokai)]
+![Github stats](https://github-readme-stats.vercel.app/api?username=SwaggyP23&hide_border=true&count_private=true&include_all_commits=true&theme=monokai)
 
 <!--
 - 💞️ I’m looking to collaborate on ...
