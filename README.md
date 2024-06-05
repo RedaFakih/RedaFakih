@@ -19,9 +19,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title"OpenGL" alt"OpenGL" width="60" height="40"/>&nbsp
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SwaggyP23&theme=monokai&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RedaFakih&theme=monokai&hide_border=true)](https://git.io/streak-stats)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=SwaggyP23&hide_border=true&count_private=true&include_all_commits=true&theme=monokai)
+![Github stats](https://github-readme-stats.vercel.app/api?username=RedaFakih&hide_border=true&count_private=true&include_all_commits=true&theme=monokai)
 
 <!--
 - 💞️ I’m looking to collaborate on ...
